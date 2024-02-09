@@ -4,9 +4,12 @@
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 ## Результаты
-1. 0.13931
-2. 0.13
-3. 0.12
+1. 0.12477
+2. 0.13931
+
+## Streamlit
+
++ ***Ссылка***
 
 
 ## Технологии
@@ -22,7 +25,7 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 
 ### Зачем был разработан этот проект?
-Проект ***дописать что-нибудь*** задания после Фазы 1 "Эльбрус Буткемп"
+Проект был выполнен в рамках задания Фазы 1 "Эльбрус Буткемп"
 
 ## Команда проекта
 - [Алексей Камаев](https://github.com/AlexeyKamaev) — Team Lead
