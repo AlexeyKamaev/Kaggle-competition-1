@@ -9,7 +9,7 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 ## Streamlit
 
-+ ***Ссылка***
++ ***https://kaggle-houseapp-hc2g7npkespzyypoxtvpg4.streamlit.app/***
 
 
 ## Технологии
